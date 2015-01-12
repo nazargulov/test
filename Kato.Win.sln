@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kato.Win", "Kato.Win\Kato.Win.csproj", "{F67CA19D-8598-47BE-85B9-E18A72DB12B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kato.Core.Win", "Kato.Core\Kato.Core.Win.csproj", "{B2FD803D-73E6-46DC-A121-9D597D74B195}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F67CA19D-8598-47BE-85B9-E18A72DB12B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F67CA19D-8598-47BE-85B9-E18A72DB12B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F67CA19D-8598-47BE-85B9-E18A72DB12B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F67CA19D-8598-47BE-85B9-E18A72DB12B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2FD803D-73E6-46DC-A121-9D597D74B195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2FD803D-73E6-46DC-A121-9D597D74B195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2FD803D-73E6-46DC-A121-9D597D74B195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2FD803D-73E6-46DC-A121-9D597D74B195}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
