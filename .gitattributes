@@ -1,0 +1,13 @@
+* text=auto
+
+*.cs     text diff=csharp
+*.java   text diff=java
+*.html   text diff=html
+*.css    text
+*.js     text
+*.m      text diff=objc
+*.h      text diff=objc
+
+*.sln    text eol=crlf
+*.csproj text eol=crlf
+third-party\libs\win\Awesomium\* text eol=crlf
