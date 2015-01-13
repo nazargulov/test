@@ -10,4 +10,5 @@
 
 *.sln    text eol=crlf
 *.csproj text eol=crlf
-/**/third-party/libs/win/Awesomium/* text eol=crlf
+
+*crlf.txt text=crlf
